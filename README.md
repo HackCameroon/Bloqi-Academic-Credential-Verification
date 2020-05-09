@@ -1,4 +1,4 @@
-Built by Robert Peltekov & Kristie Huang. Submitted to TreeHacks 2020.
+Built by Robert Peltekov & Kristie Huang. Submitted to TreeHacks 2020. https://devpost.com/software/blockchain-certificate-authentication
 
 ## Inspiration
 We're both big blockchain nerds – we wanted to explore the technical territory by building a dApp. Some of our other ideas included an accountability cryptocurrency, medical data stored on blockchain, and crypto-based health incentive programs.
